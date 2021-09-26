@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fred8X
+- 👀 I’m interested in softwares around STM32, OpenTX, and modelling in general (submarines, places, helicopters...)
+- 🌱 I’m currently learning : yes always !!!
+- 📫 How to reach me ... : PM me
